@@ -1,0 +1,22 @@
+0:
+Completely unrelated.
+The generated analysis and ground truth discuss entirely different topics, and there is no overlap in content, subject matter, or key elements.
+Examples: Ground truth discusses elephants in a zoo, while the generated caption talks about a car in a city.
+1:
+Minimally related.
+The generated analysis and ground truth are tangentially connected, sharing only a small fraction of the topic or content.
+The generated analysis may address a vaguely similar setting but fails to align in key aspects (e.g., subject focus, objects, or context).
+Examples: Ground truth discusses elephants near a fence, while the generated caption mentions animals without specifying elephants or the fence.
+2:
+Somewhat related but with notable discrepancies.
+The generated analysis and ground truth share key elements in topic or content but exhibit clear differences in focus, description, or details.
+While the overall themes or settings may overlap (e.g., animals, fences, grassy area), the generated analysis introduces significant factual errors or omits important details.
+Examples: Ground truth describes elephants near a metal fence, while the generated caption describes a zebra near a wooden fence. The settings and context are related but misaligned.
+3:
+Closely related with small differences.
+The generated analysis and ground truth align on the main topic and share most of the key details. However, there are minor differences in phrasing, specific details, or focus.
+Examples: Ground truth describes two elephants near a metal fence in front of a grassy area, while the generated caption mentions two elephants near a fence but omits the detail about the grassy area.
+4:
+Nearly identical.
+The generated analysis and ground truth are highly similar, sharing nearly all content, details, and key descriptions, with only minor or negligible phrasing differences.
+Examples: Ground truth describes two elephants near a metal fence in front of a grassy area, and the generated caption uses almost the same wording or meaning, with no significant deviations.
